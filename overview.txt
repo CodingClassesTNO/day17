@@ -1,0 +1,16 @@
+github to host our website
+opersource - free to use
+
+website builders:
+https://www.webcreate.io/website-builders-comparison-hi/?pas=22&pos=5&edgetrackerid=100690576485502&gad_source=1&gclid=Cj0KCQiAgJa6BhCOARIsAMiL7V9M_Zcq3VuRQNVSUxcBJWP1zUmb4_L0KxMg3CDbYQU10ATMivcZ_tAaAub0EALw_wcB
+
+github:
+https://github.com
+
+github desktop:
+https://desktop.github.com/download/
+
+
+another way:
+Download Git:
+https://git-scm.com/download/win
